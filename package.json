@@ -1,9 +1,9 @@
 {
-  "name": "logseq-plugin-code-interactive",
+  "name": "logseq-plugin-klipse",
   "version": "0.1.0",
   "description": "",
   "scripts": {
-    "dev": "parcel ./index.html --public-url ./",
+    "dev": "parcel watch --public-url . --no-source-maps index.html",
     "build": "parcel build --public-url . --no-source-maps index.html"
   },
   "dependencies": {
@@ -11,7 +11,7 @@
     "parcel": "^2.15.2"
   },
   "keywords": [],
-  "author": "Qijun.Wei",
+  "author": "qijun",
   "license": "MIT",
   "logseq": {
     "id": "_km4vf6swk",
