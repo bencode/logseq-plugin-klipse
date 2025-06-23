@@ -14,8 +14,9 @@
   "author": "qijun",
   "license": "MIT",
   "logseq": {
-    "id": "_km4vf6swk",
-    "main": "dist/index.html",
-    "icon": "./logo.png"
+    "id": "logseq-plugin-klipse",
+    "title": "logseq-plugin-klipse",
+    "icon": "./logo.png",
+    "main": "dist/index.html"
   }
 }
